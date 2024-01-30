@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
